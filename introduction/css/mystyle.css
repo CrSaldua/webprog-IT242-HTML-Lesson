@@ -1,9 +1,13 @@
 body {
-  background-color: lightblue;
+ background-image:url (https://as-prod.asyncgw.teams.microsoft.com/v1/objects/0-ea-d2-20ad6bb19575283143bb45ceb6a9e700/views/imgpsh_fullsize);
 }
 
 h1 {
   color: rgb(0, 0, 0);
   text-align: center;
 }
+title{
+  text-align: center;
+}
+
 
