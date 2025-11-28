@@ -7,21 +7,17 @@
 }
 
 .container div {
-background-color: #f1f1f1;
-color: #000;
- padding: 10px;
-  font-size: 20px; /* slightly smaller so text fits better */
-  text-align: center;
-  height: 350px; /* fixed height for each grid item */
+  height: 250px; /* smaller overall grid item height */
+  font-size: 18px; /* smaller font to fit better */
+  padding: 8px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between; /* space between text and image */
+  justify-content: space-between;
 }
 
 .container img {
-  width: 50%;
-  height: 50px; /* fixed height for images */
+  height: 150px; /* smaller fixed image height */
+  width: 100%;
   object-fit: cover;
-  max-width: 100%;
-  max-height: 100%;
 }
+
