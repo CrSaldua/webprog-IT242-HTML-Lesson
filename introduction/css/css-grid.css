@@ -7,8 +7,9 @@
 }
 
 .container div {
-  height: 250px; /* smaller overall grid item height */
+  height: 50px; /* smaller overall grid item height */
   font-size: 18px; /* smaller font to fit better */
+  width: 50px;
   padding: 8px;
   display: flex;
   flex-direction: column;
