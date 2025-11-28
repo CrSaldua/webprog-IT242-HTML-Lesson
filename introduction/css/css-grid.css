@@ -7,15 +7,16 @@
 }
 
 .container div {
-  height: 200px; /* smaller overall grid item height */
+  height: 50px; /* smaller overall grid item height */
   font-size: 18px; /* smaller font to fit better */
+  width: 50px;
   padding: 8px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 
-.container img {
+.image img {
   height: 150px; /* smaller fixed image height */
   width: 100%;
   object-fit: cover;
