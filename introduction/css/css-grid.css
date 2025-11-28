@@ -23,8 +23,9 @@
   font-size: 30px;
 
   text-align: center;
+}
 
-.grid-item img {
+.container img {
 width: 100%; /* Ensures the image scales to fit the container's width */
 height: 100%; /* Ensures the image scales to fit the container's height */
 object-fit: cover; /* Prevents distortion while maintaining aspect ratio */
@@ -32,4 +33,3 @@ max-width: 100%; /* Prevents overflow */
 max-height: 100%; /* Prevents overflow */
 
 }
- 
