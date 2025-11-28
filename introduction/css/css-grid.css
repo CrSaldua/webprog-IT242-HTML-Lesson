@@ -9,7 +9,6 @@
 .container div {
   height: 200px; /* smaller overall grid item height */
   font-size: 18px; /* smaller font to fit better */
-  width: 250px;
   padding: 8px;
   display: flex;
   flex-direction: column;
